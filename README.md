@@ -1,6 +1,6 @@
-# Homework 3: Full-Stack CRUD Application
+# Homework 4: Full-Stack CRUD Application
 
-**CSC 436 — Web Applications (AI-Assisted Development)**
+**Web Applications**
 **Due: Before Week 5 class**
 
 ---
